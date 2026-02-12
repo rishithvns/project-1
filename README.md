@@ -15,3 +15,6 @@ The goal was to design a structured webpage with a header, hero section, and foo
 - Mobile-friendly layout
 - Clean and structured code
 
+##  Project Preview
+
+![Landing Page Screenshot](project1.png)
